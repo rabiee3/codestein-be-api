@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "codesteinAPI",
+		"_postman_id": "a8b3fb04-3484-9a69-4e9d-ec4957e61b7c",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test first GET request",
+			"request": {
+				"url": "http://localhost:5000",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

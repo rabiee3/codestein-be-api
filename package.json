@@ -1,0 +1,23 @@
+{
+  "name": "codestein-be-api",
+  "version": "1.0.0",
+  "description": "A backbone flexible api with base user auth",
+  "main": "server.js",
+  "scripts": {
+    "startAPI": "nodemon server"
+  },
+  "author": "Rabie Mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.2",
+    "validator": "^13.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
